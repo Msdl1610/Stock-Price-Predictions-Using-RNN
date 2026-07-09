@@ -186,18 +186,6 @@ The model is evaluated using:
 
 ---
 
-## Skills Demonstrated
-
-* Deep Learning
-* Recurrent Neural Networks (RNN)
-* Time-Series Forecasting
-* Data Preprocessing
-* Model Evaluation
-* Data Visualization
-* Streamlit Dashboard Development
-* Python Programming
-
----
 
 
 
