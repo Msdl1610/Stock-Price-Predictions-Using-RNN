@@ -46,6 +46,7 @@ Stock_Price_RNN/
 ├── model.py
 ├── train.py
 ├── predict.py
+├── requirements.txt
 ├── README.md
 │
 ├── models/
